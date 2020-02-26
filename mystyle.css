@@ -1,0 +1,35 @@
+table, th, td {
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+    margin: 25px 25px 25px 25px;
+    border-style: double;
+}
+
+p {
+    text-align: center;
+    padding: 50px 50px 25px 25px;
+    margin:25px 25px 25px 25px;
+    border-style:solid;
+    
+}
+
+img { 
+    border-style: ridge;
+    
+}
+
+h1 {
+    text-align: center;
+    color: red;
+    font-family:fantasy;
+    padding: 50px 50px 50px 50px;
+    margin: 25px 25px 25px 25px;
+    border-style: dotted;
+    
+}
+
+p {
+  text-align: center;
+  color: red;
+  font-family:italic;
+}
